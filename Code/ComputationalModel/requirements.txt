@@ -1,0 +1,22 @@
+# Brian2==2.4.2
+Brian2==2.5.0.3
+
+numpy==1.20.1
+scipy==1.6.1
+# SymPy==1.7.1
+sympy==1.8
+Cython==0.29.22
+pyparsing==2.4.7
+Jinja2==3.0.3
+setuptools==54.1.2
+py-cpuinfo==7.0.0
+
+pytest==6.2.2
+Sphinx==3.5.2
+matplotlib==3.4.2
+
+# GSL==1.16
+pytest-xdist==2.5.0
+
+powerlaw==1.5
+
